@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1520182420
-DIR: code code\_onclick\hud code\defines code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling_infiltration code\game\machinery code\game\machinery\computer3 code\game\objects code\game\objects\effects code\game\objects\structures code\game\objects\structures\crates_lockers code\game\objects\structures\crates_lockers\closets code\game\objects\structures\crates_lockers\closets\secure code\modules code\modules\clothing code\modules\clothing\shoes code\modules\power code\modules\research code\modules\research\xenoarchaeology code\modules\research\xenoarchaeology\finds maps maps\SosiskoedMap 
+LAST_COMPILE_TIME: 1520187168
+DIR: code code\_onclick\hud code\defines code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling_infiltration code\game\machinery code\game\machinery\computer3 code\game\objects code\game\objects\items icons 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1385
-WINDOW: maps\SosiskoedMap\planet1.dmm;maps\exodus-1.dmm
-FILE: maps\SosiskoedMap\planet1.dmm
+WINDOW: icons\meteor_turret.dmi
+FILE: icons\meteor_turret.dmi
 */
 // END_INTERNALS
