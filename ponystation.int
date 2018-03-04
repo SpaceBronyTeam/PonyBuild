@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1520093529
-DIR: code code\_onclick code\_onclick\hud code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling_infiltration code\game\objects code\game\objects\effects code\modules code\modules\clothing code\modules\clothing\shoes code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\pony code\modules\mob\living\carbon\pony\species code\modules\mob\living\carbon\pony\species\xenomorphs icons icons\private_icons 
+LAST_COMPILE_TIME: 1520182420
+DIR: code code\_onclick\hud code\defines code\game code\game\gamemodes code\game\gamemodes\changeling code\game\gamemodes\changeling_infiltration code\game\machinery code\game\machinery\computer3 code\game\objects code\game\objects\effects code\game\objects\structures code\game\objects\structures\crates_lockers code\game\objects\structures\crates_lockers\closets code\game\objects\structures\crates_lockers\closets\secure code\modules code\modules\clothing code\modules\clothing\shoes code\modules\power code\modules\research code\modules\research\xenoarchaeology code\modules\research\xenoarchaeology\finds maps maps\SosiskoedMap 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1385
-WINDOW: code\_onclick\hud\screen_objects.dm;code\modules\clothing\shoes\miscellaneous.dm;code\modules\clothing\shoes\magboots.dm;code\modules\clothing\shoes\colour.dm;code\game\gamemodes\changeling\modularchangling.dm;code\game\gamemodes\changeling\changeling.dm;code\game\gamemodes\changeling\changeling_powers.dm;code\game\gamemodes\changeling\traitor_chan.dm;code\game\gamemodes\changeling_infiltration\main.dm;ponystation.dme;code\game\objects\effects\spiders.dm;code\modules\mob\living\carbon\pony\species\xenomorphs\changelings.dm;sprite_transform_h2p.dm;H2P_patterns.dmi
-FILE: H2P_patterns.dmi
+WINDOW: maps\SosiskoedMap\planet1.dmm;maps\exodus-1.dmm
+FILE: maps\SosiskoedMap\planet1.dmm
 */
 // END_INTERNALS
