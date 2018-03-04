@@ -45,3 +45,38 @@
 		new /obj/item/stack/sheet/metal(src.loc)
 		del(src)
 	..()
+
+/obj/item/weapon/pillow
+	name = "big pillow"
+	desc = "It looks very soft."
+	icon = 'icons/obj/objects.dmi'
+	icon_state = "bigpillow"
+	force = 0
+	throwforce = 0
+	w_class = 5
+	color = rgb(255,255,255)
+	hitsound = 'sound/weapons/punch3.ogg'
+
+/obj/item/weapon/pillow/brown
+	color = rgb(141,70,0)
+
+/obj/item/weapon/pillow/red
+	color = rgb(218,2,10)
+
+/obj/item/weapon/pillow/teal
+	color = rgb(0,234,250)
+
+/obj/item/weapon/pillow/black
+	color = rgb(60,60,60)
+
+/obj/item/weapon/pillow/green
+	color = rgb(1,196,8)
+
+/obj/item/weapon/pillow/purp
+	color = rgb(112,2,176)
+
+/obj/item/weapon/pillow/blue
+	color = rgb(2,9,210)
+
+/obj/item/weapon/pillow/beige
+	color = rgb(255,253,195)
