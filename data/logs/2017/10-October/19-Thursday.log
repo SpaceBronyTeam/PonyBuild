@@ -1,0 +1,71 @@
+
+
+Starting up. 19:10.46
+---------------------
+[19:10:47]ADMIN: Loading jobban_rank
+[19:10:47]ADMIN: jobban_keylist was empty
+[19:10:48]ADMIN: Loading Banlist
+[19:10:52]DEBUG: Rebuilding Master Controller
+[19:13:23]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:14:11]ADMIN: S_Spy/(S_Spy) set the mode as changeling_infiltration.
+[19:14:28]VOTE: Gamemode vote started by the server.
+[19:14:28]DEBUG: The server has called a gamemode vote
+[19:15:28]DEBUG: The server has called a gamemode vote
+[19:15:28]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[19:17:13]ADMIN: S_Spy has started the game.
+[19:17:43]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 22:46.14
+---------------------
+[22:46:14]MISC: Saved mode is 'changeling_infiltration'
+[22:46:15]ADMIN: Loading jobban_rank
+[22:46:15]ADMIN: jobban_keylist was empty
+[22:46:15]ADMIN: Loading Banlist
+[22:46:19]DEBUG: Rebuilding Master Controller
+[22:51:00]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[22:52:05]VOTE: Gamemode vote started by the server.
+[22:52:05]DEBUG: The server has called a gamemode vote
+[22:53:05]DEBUG: The server has called a gamemode vote
+[22:53:05]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[22:54:25]DEBUG: S_Spy had  enabled, so we are drafting them.
+[22:54:25]ACCESS: Logout: *no key*/(S_Spy)
+[22:54:25]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[22:54:25]ACCESS: Logout: *no key*/(Winter Candy)
+[22:54:25]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[22:54:30]DEBUG: Next event of severity Mundane in 12.504 minutes.
+[22:54:30]DEBUG: Next event of severity Moderate in 49.252 minutes.
+[22:54:30]DEBUG: Next event of severity Major in 83.28 minutes.
+[22:54:31]EMOTE: mouse (223)/ : <B>The mouse (223)</B> runs in a circle.
+[22:54:33]EMOTE: mouse (758)/ : <B>The mouse (758)</B> scritches at something.
+[22:54:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:55:02]SAY: mouse (223)/ : SQUEEK!
+[22:55:18]EMOTE: mouse (119)/ : <B>The mouse (119)</B> squiks.
+[22:55:37]SAY: Runtime/ : HSSSSS
+[22:55:39]EMOTE: mouse (119)/ : <B>The mouse (119)</B> shakes.
+[22:57:19]EMOTE: Tom/ : <B>Tom</B> shakes.
+[22:57:27]SAY: mouse (223)/ : SQUEEK!
+[22:57:41]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:57:44]EMOTE: mouse (503)/ : <B>The mouse (503)</B> squeeks.
+[22:58:11]EMOTE: mouse (503)/ : <B>The mouse (503)</B> squiks.
+[22:58:51]EMOTE: Ian/ : <B>Ian</B> woofs.
+[22:59:36]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[23:00:37]EMOTE: mouse (625)/ : <B>The mouse (625)</B> runs in a circle.
+[23:02:02]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[23:02:58]EMOTE: mouse (960)/ : <B>The mouse (960)</B> runs in a circle.
+[23:06:45]SAY: grey baby slime (503)/ : Lonely...
+[23:07:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:09:18]DEBUG: Next event of severity Mundane in 15.702 minutes.
+[23:09:18]DEBUG: Starting event 'Money Hacker' of severity Mundane.
+[23:09:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:10:22]SAY: grey baby slime (503)/ : Rawr...
+[23:11:33]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:12:10]EMOTE: Ian/ : <B>Ian</B> barks.
+[23:12:48]EMOTE: Tom/ : <B>Tom</B> runs in a circle.
+[23:12:50]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[23:12:52]SAY: grey baby slime (503)/ : Blorble...
+[23:13:16]EMOTE: Tom/ : <B>Tom</B> scritches at something.
+[23:13:38]EMOTE: Tom/ : <B>Tom</B> shakes.
+[23:14:31]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:14:52]SAY: Ian/ : Woof!
+[23:15:51]ACCESS: Logout: S_Spy/(alien queen (1))

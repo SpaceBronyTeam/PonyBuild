@@ -1,0 +1,303 @@
+
+
+Starting up. 15:45.46
+---------------------
+[15:45:47]ADMIN: Loading jobban_rank
+[15:45:47]ADMIN: jobban_keylist was empty
+[15:45:47]ADMIN: Loading Banlist
+[15:45:50]DEBUG: Rebuilding Master Controller
+[15:46:20]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[15:47:34]VOTE: Gamemode vote started by the server.
+[15:47:34]DEBUG: The server has called a gamemode vote
+[15:48:34]DEBUG: The server has called a gamemode vote
+[15:48:34]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[15:49:57]DEBUG: Next event of severity Mundane in 15.228 minutes.
+[15:49:57]DEBUG: Next event of severity Moderate in 51.594 minutes.
+[15:49:57]DEBUG: Next event of severity Major in 91.0133 minutes.
+[15:50:03]ACCESS: Logout: *no key*/(S_Spy)
+[15:50:03]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[15:50:08]SAY: mouse (676)/ : SQUEEK!
+[15:50:12]EMOTE: mouse (869)/ : <B>The mouse (869)</B> shakes.
+[15:50:26]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 16:27.44
+---------------------
+[16:27:44]ADMIN: Loading jobban_rank
+[16:27:44]ADMIN: jobban_keylist was empty
+[16:27:44]ADMIN: Loading Banlist
+[16:27:47]DEBUG: Rebuilding Master Controller
+[16:28:45]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[16:29:56]VOTE: Gamemode vote started by the server.
+[16:29:56]DEBUG: The server has called a gamemode vote
+[16:30:56]DEBUG: The server has called a gamemode vote
+[16:30:56]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[16:32:19]DEBUG: Next event of severity Mundane in 14.254 minutes.
+[16:32:19]DEBUG: Next event of severity Moderate in 50.05 minutes.
+[16:32:19]DEBUG: Next event of severity Major in 89.5333 minutes.
+[16:32:55]ACCESS: Logout: *no key*/(S_Spy)
+[16:32:55]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[16:33:24]SAY: grey baby slime (976)/ : Blorble...
+[16:33:50]EMOTE: mouse (640)/ : <B>The mouse (640)</B> squeeks.
+[16:34:06]EMOTE: mouse (314)/ : <B>The mouse (314)</B> runs in a circle.
+[16:34:24]EMOTE: mouse (945)/ : <B>The mouse (945)</B> runs in a circle.
+[16:34:40]EMOTE: Tom/ : <B>Tom</B> squeaks.
+[16:37:21]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 16:44.03
+---------------------
+[16:44:03]ADMIN: Loading jobban_rank
+[16:44:03]ADMIN: jobban_keylist was empty
+[16:44:03]ADMIN: Loading Banlist
+[16:44:06]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 16:49.13
+---------------------
+[16:49:14]ADMIN: Loading jobban_rank
+[16:49:14]ADMIN: jobban_keylist was empty
+[16:49:14]ADMIN: Loading Banlist
+[16:49:20]DEBUG: Rebuilding Master Controller
+[16:53:07]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[16:53:30]ADMIN: S_Spy has started the game.
+[16:53:31]ACCESS: Logout: *no key*/(S_Spy)
+[16:53:31]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[16:53:35]DEBUG: Next event of severity Mundane in 13.672 minutes.
+[16:53:36]DEBUG: Next event of severity Moderate in 46.058 minutes.
+[16:53:36]DEBUG: Next event of severity Major in 96.0467 minutes.
+[16:53:47]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:55:11]EMOTE: mouse (883)/ : <B>The mouse (883)</B> scritches at something.
+[16:55:17]SAY: mouse (328)/ : SQUEEK!
+[16:56:07]SAY: mouse (290)/ : Squeek!
+[16:56:13]EMOTE: mouse (883)/ : <B>The mouse (883)</B> scritches at something.
+[16:56:46]EMOTE: Ian/ : <B>Ian</B> yaps.
+[16:57:52]EMOTE: mouse (883)/ : <B>The mouse (883)</B> scritches at something.
+[16:58:38]GAME: <a href='?priv_msg=[0x5000000]'>S_Spy</a>/(Winter Candy) has ghosted.
+[16:58:38]ACCESS: Logout: *no key*/(Winter Candy)
+[16:58:38]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[16:58:44]ACCESS: Logout: *no key*/(Winter Candy)
+[16:58:45]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[16:58:49]GAME: <a href='?priv_msg=[0x5000000]'>S_Spy</a>/(Winter Candy) has ghosted.
+[16:58:49]ACCESS: Logout: *no key*/(Winter Candy)
+[16:58:49]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[16:58:51]GAME: Winter Candy/S_Spy used abandon mob.
+[16:58:51]ACCESS: Logout: *no key*/(Winter Candy)
+[16:58:51]ACCESS: Login: S_Spy/(new player) from 127.0.0.1-516594753 || BYOND v511
+[17:00:12]EMOTE: mouse (290)/ : <B>The mouse (290)</B> shakes.
+[17:01:24]EMOTE: Ian/ : <B>Ian</B> dances around
+[17:03:11]EMOTE: mouse (882)/ : <B>The mouse (882)</B> squeaks.
+[17:04:29]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[17:05:08]SAY: grey baby slime (673)/ : Rawr...
+[17:05:37]SAY: grey baby slime (157)/ : Blorble...
+[17:05:59]SAY: grey baby slime (673)/ : Blop...
+[17:06:13]EMOTE: mouse (668)/ : <B>The mouse (668)</B> squiks.
+[17:06:15]SAY: grey baby slime (673)/ : Blorble...
+[17:07:07]SAY: grey baby slime (673)/ : Blorble...
+[17:07:09]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[17:09:24]DEBUG: Next event of severity Mundane in 17.938 minutes.
+[17:09:24]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[17:09:46]DEBUG: Event 'Trivial News' has completed at 12:14.
+[17:10:24]SAY: grey baby slime (673)/ : Rawr...
+[17:11:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[17:12:36]ACCESS: Logout: S_Spy/(new player)
+
+
+Starting up. 17:16.20
+---------------------
+[17:16:21]ADMIN: Loading jobban_rank
+[17:16:21]ADMIN: jobban_keylist was empty
+[17:16:21]ADMIN: Loading Banlist
+[17:16:25]DEBUG: Rebuilding Master Controller
+[17:18:40]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:19:59]VOTE: Gamemode vote started by the server.
+[17:19:59]DEBUG: The server has called a gamemode vote
+[17:20:59]DEBUG: The server has called a gamemode vote
+[17:20:59]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[17:22:10]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 17:37.07
+---------------------
+[17:37:07]ADMIN: Loading jobban_rank
+[17:37:07]ADMIN: jobban_keylist was empty
+[17:37:07]ADMIN: Loading Banlist
+[17:37:10]DEBUG: Rebuilding Master Controller
+[17:37:42]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:38:25]ACCESS: Logout: S_Spy/(S_Spy)
+[17:45:02]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:45:05]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 17:45.31
+---------------------
+[17:45:31]ADMIN: Loading jobban_rank
+[17:45:31]ADMIN: jobban_keylist was empty
+[17:45:31]ADMIN: Loading Banlist
+[17:45:34]DEBUG: Rebuilding Master Controller
+[17:46:12]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:47:04]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 18:06.31
+---------------------
+[18:06:32]ADMIN: Loading jobban_rank
+[18:06:32]ADMIN: jobban_keylist was empty
+[18:06:32]ADMIN: Loading Banlist
+[18:06:35]DEBUG: Rebuilding Master Controller
+[18:07:46]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[18:09:00]VOTE: Gamemode vote started by the server.
+[18:09:00]DEBUG: The server has called a gamemode vote
+[18:10:00]DEBUG: The server has called a gamemode vote
+[18:10:00]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:11:23]DEBUG: Next event of severity Mundane in 17.86 minutes.
+[18:11:23]DEBUG: Next event of severity Moderate in 53.644 minutes.
+[18:11:23]DEBUG: Next event of severity Major in 82.4 minutes.
+[18:11:36]EMOTE: mouse (899)/ : <B>The mouse (899)</B> squiks.
+[18:12:04]EMOTE: Tom/ : <B>Tom</B> squeeks.
+[18:12:18]EMOTE: mouse (316)/ : <B>The mouse (316)</B> squeeks.
+[18:12:26]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:12:26]EMOTE: mouse (316)/ : <B>The mouse (316)</B> runs in a circle.
+[18:13:00]SAY: grey baby slime (116)/ : Rawr...
+[18:13:42]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 18:15.58
+---------------------
+[18:15:58]ADMIN: Loading jobban_rank
+[18:15:58]ADMIN: jobban_keylist was empty
+[18:15:58]ADMIN: Loading Banlist
+[18:16:02]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 18:19.43
+---------------------
+[18:19:43]ADMIN: Loading jobban_rank
+[18:19:43]ADMIN: jobban_keylist was empty
+[18:19:43]ADMIN: Loading Banlist
+[18:19:49]DEBUG: Rebuilding Master Controller
+[18:20:34]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[18:21:59]VOTE: Gamemode vote started by the server.
+[18:21:59]DEBUG: The server has called a gamemode vote
+[18:22:59]DEBUG: The server has called a gamemode vote
+[18:22:59]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:24:22]DEBUG: Next event of severity Mundane in 15.736 minutes.
+[18:24:22]DEBUG: Next event of severity Moderate in 40.7 minutes.
+[18:24:22]DEBUG: Next event of severity Major in 81.68 minutes.
+[18:26:38]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:26:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:26:58]SAY: Ian/ : YAP
+[18:27:12]EMOTE: mouse (745)/ : <B>The mouse (745)</B> squeaks.
+[18:28:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[18:28:34]EMOTE: mouse (14)/ : <B>The mouse (14)</B> squeeks.
+[18:28:48]EMOTE: Ian/ : <B>Ian</B> yaps.
+[18:29:09]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 18:32.01
+---------------------
+[18:32:01]ADMIN: Loading jobban_rank
+[18:32:01]ADMIN: jobban_keylist was empty
+[18:32:01]ADMIN: Loading Banlist
+[18:32:04]DEBUG: Rebuilding Master Controller
+[18:32:19]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[18:33:38]VOTE: Gamemode vote started by the server.
+[18:33:38]DEBUG: The server has called a gamemode vote
+[18:33:54]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 18:38.54
+---------------------
+[18:38:55]ADMIN: Loading jobban_rank
+[18:38:55]ADMIN: jobban_keylist was empty
+[18:38:55]ADMIN: Loading Banlist
+[18:38:58]DEBUG: Rebuilding Master Controller
+[18:40:03]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[18:41:14]VOTE: Gamemode vote started by the server.
+[18:41:14]DEBUG: The server has called a gamemode vote
+[18:42:14]DEBUG: The server has called a gamemode vote
+[18:42:14]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[18:43:37]DEBUG: Next event of severity Mundane in 15.118 minutes.
+[18:43:37]DEBUG: Next event of severity Moderate in 48.416 minutes.
+[18:43:37]DEBUG: Next event of severity Major in 84.0333 minutes.
+[18:43:44]SAY: mouse (896)/ : Squeek!
+[18:43:45]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[18:43:48]SAY: mouse (623)/ : Squeek?
+[18:44:38]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 18:56.39
+---------------------
+[18:56:39]ADMIN: Loading jobban_rank
+[18:56:39]ADMIN: jobban_keylist was empty
+[18:56:39]ADMIN: Loading Banlist
+[18:56:42]DEBUG: Rebuilding Master Controller
+[18:57:08]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[18:58:40]VOTE: Gamemode vote started by the server.
+[18:58:40]DEBUG: The server has called a gamemode vote
+[18:59:40]DEBUG: The server has called a gamemode vote
+[18:59:40]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[19:01:03]DEBUG: Next event of severity Mundane in 14.514 minutes.
+[19:01:03]DEBUG: Next event of severity Moderate in 39.942 minutes.
+[19:01:03]DEBUG: Next event of severity Major in 80.4433 minutes.
+[19:01:08]SAY: Runtime/ : Esp!
+[19:01:08]SAY: mouse (441)/ : SQUEEK!
+[19:01:46]SAY: Runtime/ : Esp!
+[19:02:10]SAY: mouse (689)/ : Squeek!
+[19:02:52]EMOTE: mouse (130)/ : <B>The mouse (130)</B> squeeks.
+[19:03:13]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 19:12.34
+---------------------
+[19:12:35]ADMIN: Loading jobban_rank
+[19:12:35]ADMIN: jobban_keylist was empty
+[19:12:35]ADMIN: Loading Banlist
+[19:12:38]DEBUG: Rebuilding Master Controller
+[19:16:58]ACCESS: Login: Guest-516594753/(Guest-516594753) from 127.0.0.1-516594753 || BYOND v511
+[19:18:11]VOTE: Gamemode vote started by the server.
+[19:18:11]DEBUG: The server has called a gamemode vote
+[19:19:11]DEBUG: The server has called a gamemode vote
+[19:19:11]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[19:20:34]DEBUG: Next event of severity Mundane in 13.208 minutes.
+[19:20:34]DEBUG: Next event of severity Moderate in 40.726 minutes.
+[19:20:34]DEBUG: Next event of severity Major in 95.6967 minutes.
+[19:20:43]EMOTE: mouse (752)/ : <B>The mouse (752)</B> squiks.
+[19:21:28]SAY: mouse (752)/ : Squeek!
+[19:21:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:23:13]ACCESS: Logout: Guest-516594753/(Guest-516594753)
+
+
+Starting up. 19:46.15
+---------------------
+[19:46:15]ADMIN: Loading jobban_rank
+[19:46:15]ADMIN: jobban_keylist was empty
+[19:46:15]ADMIN: Loading Banlist
+[19:46:19]DEBUG: Rebuilding Master Controller
+[19:53:13]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:54:15]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 19:54.43
+---------------------
+[19:54:43]ADMIN: Loading jobban_rank
+[19:54:43]ADMIN: jobban_keylist was empty
+[19:54:43]ADMIN: Loading Banlist
+[19:54:46]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 20:01.55
+---------------------
+[20:01:55]ADMIN: Loading jobban_rank
+[20:01:56]ADMIN: jobban_keylist was empty
+[20:01:56]ADMIN: Loading Banlist
+[20:02:00]DEBUG: Rebuilding Master Controller
+[20:03:51]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[20:05:04]VOTE: Gamemode vote started by the server.
+[20:05:04]DEBUG: The server has called a gamemode vote
+[20:06:04]DEBUG: The server has called a gamemode vote
+[20:06:04]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[20:07:27]DEBUG: Next event of severity Mundane in 13.148 minutes.
+[20:07:27]DEBUG: Next event of severity Moderate in 37.384 minutes.
+[20:07:27]DEBUG: Next event of severity Major in 95.0767 minutes.
+[20:07:58]ACCESS: Logout: S_Spy/(S_Spy)

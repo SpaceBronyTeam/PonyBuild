@@ -1,0 +1,191 @@
+
+
+Starting up. 20:37.48
+---------------------
+[20:37:49]ADMIN: Loading jobban_rank
+[20:37:49]ADMIN: jobban_keylist was empty
+[20:37:49]ADMIN: Loading Banlist
+[20:37:58]DEBUG: Rebuilding Master Controller
+[20:39:27]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[20:40:34]VOTE: Gamemode vote started by the server.
+[20:40:34]DEBUG: The server has called a gamemode vote
+[20:41:35]DEBUG: The server has called a gamemode vote
+[20:41:35]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[20:42:13]ADMIN: S_Spy has started the game.
+[20:42:14]ACCESS: Logout: *no key*/(S_Spy)
+[20:42:14]ACCESS: Login: S_Spy/(Apple Swing) from 127.0.0.1-516594753 || BYOND v511
+[20:42:18]DEBUG: Next event of severity Mundane in 17.162 minutes.
+[20:42:18]DEBUG: Next event of severity Moderate in 44.678 minutes.
+[20:42:18]DEBUG: Next event of severity Major in 95.1667 minutes.
+[20:42:19]EMOTE: mouse (191)/ : <B>The mouse (191)</B> squeeks.
+[20:42:48]EMOTE: mouse (308)/ : <B>The mouse (308)</B> runs in a circle.
+[20:42:55]SAY: Experiment 97d/ : Eh?
+[20:43:07]GAME: <a href='?priv_msg=[0x5000000]'>S_Spy</a>/(Apple Swing) has ghosted.
+[20:43:07]ACCESS: Logout: *no key*/(Apple Swing)
+[20:43:07]ACCESS: Login: S_Spy/(Apple Swing) from 127.0.0.1-516594753 || BYOND v511
+[20:43:17]GAME: Apple Swing/S_Spy used abandon mob.
+[20:43:17]ACCESS: Logout: *no key*/(Apple Swing)
+[20:43:17]ACCESS: Login: S_Spy/(new player) from 127.0.0.1-516594753 || BYOND v511
+[20:43:23]EMOTE: mouse (380)/ : <B>The mouse (380)</B> squeaks.
+[20:43:47]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:44:00]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[20:44:36]EMOTE: crab/ : <B>The crab</B> clacks.
+[20:45:43]ACCESS: Logout: S_Spy/(new player)
+
+
+Starting up. 21:13.38
+---------------------
+[21:13:38]ADMIN: Loading jobban_rank
+[21:13:38]ADMIN: jobban_keylist was empty
+[21:13:38]ADMIN: Loading Banlist
+[21:13:45]DEBUG: Rebuilding Master Controller
+[21:14:52]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[21:16:26]VOTE: Gamemode vote started by the server.
+[21:16:26]DEBUG: The server has called a gamemode vote
+[21:17:10]ADMIN: S_Spy has started the game.
+[21:17:10]ACCESS: Logout: *no key*/(S_Spy)
+[21:17:10]ACCESS: Login: S_Spy/(Ivy Mustang) from 127.0.0.1-516594753 || BYOND v511
+[21:17:15]DEBUG: Next event of severity Mundane in 17.492 minutes.
+[21:17:15]DEBUG: Next event of severity Moderate in 49.932 minutes.
+[21:17:15]DEBUG: Next event of severity Major in 88.1233 minutes.
+[21:17:15]EMOTE: mouse (837)/ : <B>The mouse (837)</B> runs in a circle.
+[21:18:08]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:20:14]EMOTE: mouse (695)/ : <B>The mouse (695)</B> squeaks.
+[21:20:31]SAY: Tom/ : Squeek?
+[21:21:08]EMOTE: mouse (695)/ : <B>The mouse (695)</B> scritches at something.
+[21:22:08]SAY: mouse (837)/ : SQUEEK!
+[21:22:31]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:24:46]EMOTE: mouse (402)/ : <B>The mouse (402)</B> squeeks.
+[21:25:04]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:26:01]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:26:18]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[21:27:09]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:27:20]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:27:20]EMOTE: mouse (402)/ : <B>The mouse (402)</B> shakes.
+[21:27:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:29:22]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:29:30]EMOTE: mouse (837)/ : <B>The mouse (837)</B> squeeks.
+[21:30:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:31:29]EMOTE: mouse (950)/ : <B>The mouse (950)</B> squiks.
+[21:32:36]SAY: Ian/ : Bark!
+[21:33:28]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:34:03]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:34:21]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[21:36:22]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:36:43]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:36:45]SAY: Experiment 97d/ : EHEHEHEHEH
+[21:36:57]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:37:25]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[21:37:39]DEBUG: Next event of severity Mundane in 15.188 minutes.
+[21:37:39]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[21:37:53]EMOTE: Runtime/ : <B>Runtime</B> shivers.
+[21:38:01]DEBUG: Event 'Mundane News' has completed at 12:19.
+[21:38:45]EMOTE: crab/ : <B>The crab</B> clacks.
+[21:39:23]SAY: Experiment 97d/ : EHEHEHEHEH
+[21:39:37]EMOTE: Ian/ : <B>Ian</B> dances around
+[21:39:41]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:40:11]EMOTE: crab/ : <B>The crab</B> clicks.
+[21:40:59]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[21:42:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[21:42:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[21:42:54]ACCESS: Logout: S_Spy/(Ivy Mustang)
+
+
+Starting up. 22:12.23
+---------------------
+[22:12:23]ADMIN: Loading jobban_rank
+[22:12:23]ADMIN: jobban_keylist was empty
+[22:12:23]ADMIN: Loading Banlist
+[22:12:28]DEBUG: Rebuilding Master Controller
+[22:13:41]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[22:15:05]VOTE: Gamemode vote started by the server.
+[22:15:05]DEBUG: The server has called a gamemode vote
+[22:15:34]ADMIN: S_Spy has started the game.
+[22:15:34]ACCESS: Logout: *no key*/(S_Spy)
+[22:15:34]ACCESS: Login: S_Spy/(Wild Flash) from 127.0.0.1-516594753 || BYOND v511
+[22:15:36]EMOTE: Ian/ : <B>Ian</B> pants.
+[22:15:38]DEBUG: Next event of severity Mundane in 17.386 minutes.
+[22:15:38]DEBUG: Next event of severity Moderate in 37.298 minutes.
+[22:15:38]DEBUG: Next event of severity Major in 87.555 minutes.
+[22:16:01]SAY: mouse (570)/ : Squeek?
+[22:16:10]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:17:24]EMOTE: mouse (961)/ : <B>The mouse (961)</B> scritches at something.
+[22:17:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:18:08]SAY: Ian/ : AUUUUUU
+[22:18:09]ADMIN: HELP: S_Spy/(Wild Flash): тест &#255; - heard by 1 non-AFK admins.
+[22:18:16]ADMIN: HELP: S_Spy/(Wild Flash): Тест &#255;Я&#255;&#255;Я&#255; - heard by 1 non-AFK admins.
+[22:18:36]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:18:40]EMOTE: mouse (71)/ : <B>The mouse (71)</B> runs in a circle.
+[22:18:50]EMOTE: crab/ : <B>The crab</B> clacks.
+[22:18:56]EMOTE: mouse (13)/ : <B>The mouse (13)</B> squeaks.
+[22:18:58]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:19:02]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:19:40]SAY: grey baby slime (847)/ : Lonely...
+[22:19:52]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:20:48]EMOTE: mouse (570)/ : <B>The mouse (570)</B> scritches at something.
+[22:21:28]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[22:21:44]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:22:00]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[22:22:57]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[22:23:25]EMOTE: mouse (970)/ : <B>The mouse (970)</B> squiks.
+[22:23:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:23:43]SAY: mouse (970)/ : SQUEEK!
+[22:24:32]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:25:13]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:25:21]EMOTE: mouse (570)/ : <B>The mouse (570)</B> scritches at something.
+[22:25:21]EMOTE: mouse (970)/ : <B>The mouse (970)</B> runs in a circle.
+[22:25:36]SAY: grey baby slime (847)/ : Blorble...
+[22:26:08]SAY: Runtime/ : HSSSSS
+[22:27:11]ACCESS: Logout: S_Spy/(Wild Flash)
+
+
+Starting up. 23:01.44
+---------------------
+[23:01:45]ADMIN: Loading jobban_rank
+[23:01:45]ADMIN: jobban_keylist was empty
+[23:01:45]ADMIN: Loading Banlist
+[23:01:49]DEBUG: Rebuilding Master Controller
+[23:06:28]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[23:07:57]VOTE: Gamemode vote started by the server.
+[23:07:57]DEBUG: The server has called a gamemode vote
+[23:08:57]DEBUG: The server has called a gamemode vote
+[23:08:57]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:09:02]ADMIN: S_Spy has started the game.
+[23:09:02]ACCESS: Logout: *no key*/(S_Spy)
+[23:09:02]ACCESS: Login: S_Spy/(Sapphire Bee) from 127.0.0.1-516594753 || BYOND v511
+[23:09:06]DEBUG: Next event of severity Mundane in 13.512 minutes.
+[23:09:06]DEBUG: Next event of severity Moderate in 43.062 minutes.
+[23:09:06]DEBUG: Next event of severity Major in 88.745 minutes.
+[23:09:37]EMOTE: mouse (107)/ : <B>The mouse (107)</B> runs in a circle.
+[23:09:45]EMOTE: Tom/ : <B>Tom</B> shakes.
+[23:10:48]EMOTE: mouse (107)/ : <B>The mouse (107)</B> squeaks.
+[23:11:46]EMOTE: mouse (1000)/ : <B>The mouse (1000)</B> squiks.
+[23:12:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:14:05]ACCESS: Logout: S_Spy/(Sapphire Bee)
+
+
+Starting up. 23:20.50
+---------------------
+[23:20:51]ADMIN: Loading jobban_rank
+[23:20:51]ADMIN: jobban_keylist was empty
+[23:20:51]ADMIN: Loading Banlist
+[23:20:55]DEBUG: Rebuilding Master Controller
+[23:22:06]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[23:23:22]VOTE: Gamemode vote started by the server.
+[23:23:22]DEBUG: The server has called a gamemode vote
+[23:24:22]DEBUG: The server has called a gamemode vote
+[23:24:22]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[23:25:21]ADMIN: S_Spy has started the game.
+[23:25:21]ACCESS: Logout: *no key*/(S_Spy)
+[23:25:21]ACCESS: Login: S_Spy/(Pure Vision) from 127.0.0.1-516594753 || BYOND v511
+[23:25:25]DEBUG: Next event of severity Mundane in 16.39 minutes.
+[23:25:25]DEBUG: Next event of severity Moderate in 37.83 minutes.
+[23:25:25]DEBUG: Next event of severity Major in 89.205 minutes.
+[23:27:25]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:27:33]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> shakes its head.
+[23:28:05]EMOTE: mouse (45)/ : <B>The mouse (45)</B> squeeks.
+[23:28:09]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:28:17]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:28:32]SAY: mouse (378)/ : Squeek?
+[23:29:04]EMOTE: Tom/ : <B>Tom</B> scritches at something.
+[23:30:35]ACCESS: Logout: S_Spy/(Pure Vision)

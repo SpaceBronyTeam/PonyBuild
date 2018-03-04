@@ -1,0 +1,160 @@
+
+
+Starting up. 00:09.09
+---------------------
+[00:09:10]ADMIN: Loading jobban_rank
+[00:09:10]ADMIN: jobban_keylist was empty
+[00:09:10]ADMIN: Loading Banlist
+[00:09:13]DEBUG: Rebuilding Master Controller
+[00:14:54]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[00:16:17]VOTE: Gamemode vote started by the server.
+[00:16:17]DEBUG: The server has called a gamemode vote
+[00:17:00]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 00:52.19
+---------------------
+[00:52:20]ADMIN: Loading jobban_rank
+[00:52:20]ADMIN: jobban_keylist was empty
+[00:52:20]ADMIN: Loading Banlist
+[00:52:23]DEBUG: Rebuilding Master Controller
+[00:54:02]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[00:55:03]ADMIN: S_Spy has started the game.
+[00:55:03]ACCESS: Logout: *no key*/(S_Spy)
+[00:55:03]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[00:55:08]DEBUG: Next event of severity Mundane in 14.774 minutes.
+[00:55:08]DEBUG: Next event of severity Moderate in 37.042 minutes.
+[00:55:08]DEBUG: Next event of severity Major in 94.2633 minutes.
+[00:55:23]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:55:26]EMOTE: mouse (241)/ : <B>The mouse (241)</B> runs in a circle.
+[00:55:27]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:55:28]EMOTE: mouse (848)/ : <B>The mouse (848)</B> runs in a circle.
+[00:55:29]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:55:30]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:55:31]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to larva; deletemob=1
+[00:55:31]ACCESS: Logout: *no key*/(Winter Candy)
+[00:55:31]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[00:55:47]ACCESS: Logout: *no key*/(Winter Candy)
+[00:55:47]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[00:55:56]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:56:28]ADMIN: S_Spy/(Winter Candy) created 1 /mob/living/silicon/ai
+[00:56:40]ADMIN: S_Spy/(Winter Candy) created 1 /mob/living/carbon/pony/xqueen
+[00:56:53]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:56:56]SAY: mouse (101)/ : Squeek!
+[00:56:57]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[00:57:08]ADMIN: S_Spy/(Winter Candy) created 1 /mob/living/carbon/pony/xqueen
+[00:57:26]SAY: grey baby slime (480)/ : Blop...
+[00:58:07]EMOTE: mouse (810)/ : <B>The mouse (810)</B> shakes.
+[00:58:12]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 01:03.38
+---------------------
+[01:03:38]ADMIN: Loading jobban_rank
+[01:03:38]ADMIN: jobban_keylist was empty
+[01:03:38]ADMIN: Loading Banlist
+[01:03:41]DEBUG: Rebuilding Master Controller
+[01:04:33]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[01:05:06]ADMIN: S_Spy has started the game.
+[01:05:07]ACCESS: Logout: *no key*/(S_Spy)
+[01:05:07]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:05:10]DEBUG: Next event of severity Mundane in 17.642 minutes.
+[01:05:10]DEBUG: Next event of severity Moderate in 41.766 minutes.
+[01:05:10]DEBUG: Next event of severity Major in 80.375 minutes.
+[01:05:18]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:05:21]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:05:23]EMOTE: mouse (724)/ : <B>The mouse (724)</B> squiks.
+[01:05:27]EMOTE: Ian/ : <B>Ian</B> woofs.
+[01:05:29]ACCESS: Logout: *no key*/(Winter Candy)
+[01:05:29]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:05:41]EMOTE: mouse (908)/ : <B>The mouse (908)</B> shakes.
+[01:05:45]ADMIN: S_Spy/(Winter Candy) created 1 /mob/living/carbon/pony/xqueen
+[01:06:37]EMOTE: mouse (132)/ : <B>The mouse (132)</B> shakes.
+[01:06:39]EMOTE: Ian/ : <B>Ian</B> shivers.
+[01:07:21]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:07:29]EMOTE: mouse (132)/ : <B>The mouse (132)</B> shakes.
+[01:07:45]ACCESS: Logout: S_Spy/(Winter Candy)
+[01:08:24]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:08:49]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:08:55]SAY: Runtime/ : Esp!
+[01:09:07]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:10:38]EMOTE: mouse (908)/ : <B>The mouse (908)</B> scritches at something.
+[01:11:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[01:11:39]SAY: grey baby slime (743)/ : Rawr...
+[01:11:41]SAY: mouse (840)/ : Squeek!
+[01:11:51]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 01:23.54
+---------------------
+[01:23:54]ADMIN: Loading jobban_rank
+[01:23:54]ADMIN: jobban_keylist was empty
+[01:23:54]ADMIN: Loading Banlist
+[01:23:57]DEBUG: Rebuilding Master Controller
+[01:24:18]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[01:24:44]ADMIN: S_Spy has started the game.
+[01:24:44]ACCESS: Logout: *no key*/(S_Spy)
+[01:24:44]ACCESS: Login: S_Spy/(B-9) from 127.0.0.1-2867557932 || BYOND v511
+[01:24:54]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[01:24:56]DEBUG: Next event of severity Mundane in 12.578 minutes.
+[01:24:56]DEBUG: Next event of severity Moderate in 36.55 minutes.
+[01:24:56]DEBUG: Next event of severity Major in 87.7117 minutes.
+[01:24:59]ACCESS: Logout: *no key*/(S_Spy)
+[01:24:59]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:25:01]SAY: Ian/ : Woof!
+[01:25:05]SAY: grey baby slime (826)/ : Rawr...
+[01:25:07]EMOTE: Tom/ : <B>Tom</B> squeeks.
+[01:25:16]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to Earthpony; deletemob=1
+[01:25:16]ACCESS: Logout: *no key*/(Winter Candy)
+[01:25:16]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:25:26]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:25:31]EMOTE: mouse (31)/ : <B>The mouse (31)</B> scritches at something.
+[01:25:36]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:25:50]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:26:01]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:27:47]EMOTE: mouse (477)/ : <B>The mouse (477)</B> scritches at something.
+[01:30:13]SAY: grey baby slime (826)/ : Rawr...
+[01:30:58]SAY: grey baby slime (279)/ : Rawr...
+[01:32:18]EMOTE: mouse (303)/ : <B>The mouse (303)</B> scritches at something.
+[01:32:30]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:33:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[01:35:22]ACCESS: Logout: S_Spy/(alien queen (1))
+
+
+Starting up. 01:37.44
+---------------------
+[01:37:44]ADMIN: Loading jobban_rank
+[01:37:44]ADMIN: jobban_keylist was empty
+[01:37:44]ADMIN: Loading Banlist
+[01:37:47]DEBUG: Rebuilding Master Controller
+[01:38:03]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[01:38:24]ADMIN: S_Spy has started the game.
+[01:38:24]ACCESS: Logout: *no key*/(S_Spy)
+[01:38:24]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:38:29]DEBUG: Next event of severity Mundane in 15.55 minutes.
+[01:38:29]DEBUG: Next event of severity Moderate in 42.54 minutes.
+[01:38:29]DEBUG: Next event of severity Major in 95.2583 minutes.
+[01:38:34]ADMIN: S_Spy/(Winter Candy) has used rudimentary transformation on S_Spy/(Winter Candy). Transforming to pony; deletemob=1
+[01:39:50]EMOTE: mouse (884)/ : <B>The mouse (884)</B> squiks.
+[01:39:54]EMOTE: Tom/ : <B>Tom</B> squeaks.
+[01:39:58]EMOTE: mouse (181)/ : <B>The mouse (181)</B> squiks.
+[01:40:06]EMOTE: mouse (833)/ : <B>The mouse (833)</B> scritches at something.
+[01:40:39]SAY: mouse (18)/ : SQUEEK!
+[01:41:12]ACCESS: Logout: S_Spy/(alien queen (1))
+
+
+Starting up. 01:49.39
+---------------------
+[01:49:39]ADMIN: Loading jobban_rank
+[01:49:39]ADMIN: jobban_keylist was empty
+[01:49:39]ADMIN: Loading Banlist
+[01:49:42]DEBUG: Rebuilding Master Controller
+[01:50:09]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-2867557932 || BYOND v511
+[01:50:33]ADMIN: S_Spy has started the game.
+[01:50:33]ACCESS: Logout: *no key*/(S_Spy)
+[01:50:33]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-2867557932 || BYOND v511
+[01:50:37]DEBUG: Next event of severity Mundane in 14.212 minutes.
+[01:50:37]DEBUG: Next event of severity Moderate in 53.324 minutes.
+[01:50:37]DEBUG: Next event of severity Major in 92.7067 minutes.
+[01:51:17]SAY: Runtime/ : HSSSSS
+[01:51:44]ACCESS: Logout: S_Spy/(alien queen (1))

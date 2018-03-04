@@ -1,0 +1,108 @@
+
+
+Starting up. 17:17.26
+---------------------
+[17:17:27]ADMIN: Loading jobban_rank
+[17:17:27]ADMIN: jobban_keylist was empty
+[17:17:27]ADMIN: Loading Banlist
+[17:17:33]DEBUG: Rebuilding Master Controller
+[17:18:23]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:19:32]ADMIN: S_Spy has started the game.
+[17:19:33]ACCESS: Logout: *no key*/(S_Spy)
+[17:19:33]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[17:19:37]EMOTE: mouse (654)/ : <B>The mouse (654)</B> squiks.
+[17:19:39]DEBUG: Next event of severity Mundane in 13.742 minutes.
+[17:19:39]DEBUG: Next event of severity Moderate in 46.158 minutes.
+[17:19:39]DEBUG: Next event of severity Major in 94.0533 minutes.
+[17:19:53]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 17:26.56
+---------------------
+[17:26:57]ADMIN: Loading jobban_rank
+[17:26:57]ADMIN: jobban_keylist was empty
+[17:26:57]ADMIN: Loading Banlist
+[17:27:05]DEBUG: Rebuilding Master Controller
+[17:29:44]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:30:41]ADMIN: S_Spy has started the game.
+[17:30:42]ACCESS: Logout: *no key*/(S_Spy)
+[17:30:42]ACCESS: Login: S_Spy/(Cassandra One) from 127.0.0.1-516594753 || BYOND v511
+[17:30:51]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[17:30:54]DEBUG: Next event of severity Mundane in 16.232 minutes.
+[17:30:54]DEBUG: Next event of severity Moderate in 50.302 minutes.
+[17:30:54]DEBUG: Next event of severity Major in 84.455 minutes.
+[17:31:01]ACCESS: Logout: *no key*/(S_Spy)
+[17:31:01]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[17:31:02]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> glares around.
+[17:31:05]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[17:31:19]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 22:43.54
+---------------------
+[22:43:54]ADMIN: Loading jobban_rank
+[22:43:54]ADMIN: jobban_keylist was empty
+[22:43:54]ADMIN: Loading Banlist
+[22:43:59]DEBUG: Rebuilding Master Controller
+[22:46:19]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[22:47:21]ADMIN: S_Spy has started the game.
+[22:47:21]ACCESS: Logout: *no key*/(S_Spy)
+[22:47:21]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[22:47:27]DEBUG: Next event of severity Mundane in 12.418 minutes.
+[22:47:27]DEBUG: Next event of severity Moderate in 46.604 minutes.
+[22:47:27]DEBUG: Next event of severity Major in 80.8167 minutes.
+[22:47:30]SAY: mouse (375)/ : Squeek?
+[22:47:54]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:50:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:50:29]EMOTE: mouse (458)/ : <B>The mouse (458)</B> squeaks.
+[22:50:35]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:50:58]EMOTE: mouse (301)/ : <B>The mouse (301)</B> shakes.
+[22:51:38]SAY: grey baby slime (814)/ : Lonely...
+[22:52:27]EMOTE: mouse (623)/ : <B>The mouse (623)</B> shakes.
+[22:52:59]EMOTE: Ian/ : <B>Ian</B> dances around
+[22:53:25]SAY: Experiment 97d/ : EHEHEHEHEH
+[22:54:24]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:55:25]EMOTE: mouse (815)/ : <B>The mouse (815)</B> squeeks.
+[22:56:38]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:56:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:57:09]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[22:57:21]EMOTE: crab/ : <B>The crab</B> clicks.
+[22:59:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:59:39]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[22:59:53]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clicks.
+[23:00:43]SAY: grey baby slime (290)/ : Lonely...
+[23:01:31]EMOTE: Ian/ : <B>Ian</B> dances around
+[23:01:36]DEBUG: Next event of severity Mundane in 12.35 minutes.
+[23:01:36]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[23:01:56]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[23:01:58]DEBUG: Event 'Mundane News' has completed at 12:13.
+[23:02:08]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 23:03.26
+---------------------
+[23:03:27]ADMIN: Loading jobban_rank
+[23:03:27]ADMIN: jobban_keylist was empty
+[23:03:27]ADMIN: Loading Banlist
+[23:03:32]DEBUG: Rebuilding Master Controller
+[23:03:56]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[23:04:28]ADMIN: S_Spy has started the game.
+[23:04:29]ACCESS: Logout: *no key*/(S_Spy)
+[23:04:29]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[23:04:34]DEBUG: Next event of severity Mundane in 13.232 minutes.
+[23:04:34]DEBUG: Next event of severity Moderate in 53.21 minutes.
+[23:04:34]DEBUG: Next event of severity Major in 94.6733 minutes.
+[23:04:42]ACCESS: Logout: S_Spy/(Winter Candy)
+[23:06:08]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[23:06:13]EMOTE: mouse (575)/ : <B>The mouse (575)</B> shakes.
+[23:07:00]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:07:35]SAY: grey baby slime (107)/ : Lonely...
+[23:07:45]SAY: Ian/ : YAP
+[23:07:53]EMOTE: mouse (499)/ : <B>The mouse (499)</B> squiks.
+[23:08:22]EMOTE: mouse (499)/ : <B>The mouse (499)</B> squeeks.
+[23:08:44]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:09:07]SAY: Ian/ : Woof!
+[23:09:20]EMOTE: mouse (252)/ : <B>The mouse (252)</B> squeeks.
+[23:09:24]EMOTE: crab/ : <B>The crab</B> clicks.
+[23:09:54]EMOTE: mouse (89)/ : <B>The mouse (89)</B> scritches at something.
+[23:10:59]ACCESS: Logout: S_Spy/(Winter Candy)

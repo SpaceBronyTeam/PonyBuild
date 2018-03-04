@@ -1,0 +1,51 @@
+
+
+Starting up. 19:02.40
+---------------------
+[19:02:40]ADMIN: Loading jobban_rank
+[19:02:40]ADMIN: jobban_keylist was empty
+[19:02:40]ADMIN: Loading Banlist
+[19:02:43]DEBUG: Rebuilding Master Controller
+[19:06:13]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:07:20]ADMIN: S_Spy has started the game.
+[19:07:21]ACCESS: Logout: *no key*/(S_Spy)
+[19:07:21]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[19:07:24]DEBUG: Next event of severity Mundane in 16.96 minutes.
+[19:07:24]DEBUG: Next event of severity Moderate in 53.414 minutes.
+[19:07:24]DEBUG: Next event of severity Major in 81.1667 minutes.
+[19:07:25]EMOTE: mouse (346)/ : <B>The mouse (346)</B> squiks.
+[19:07:53]EMOTE: mouse (153)/ : <B>The mouse (153)</B> scritches at something.
+[19:08:11]EMOTE: mouse (153)/ : <B>The mouse (153)</B> runs in a circle.
+[19:08:17]EMOTE: mouse (759)/ : <B>The mouse (759)</B> scritches at something.
+[19:09:07]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:09:15]EMOTE: Ian/ : <B>Ian</B> woofs.
+[19:10:53]EMOTE: Tom/ : <B>Tom</B> squiks.
+[19:11:23]SAY: Ian/ : Bark!
+[19:11:25]SAY: mouse (181)/ : SQUEEK!
+[19:11:31]EMOTE: crab/ : <B>The crab</B> clicks.
+[19:12:13]SAY: grey baby slime (253)/ : Rawr...
+[19:12:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:12:21]SAY: grey baby slime (530)/ : Blorble...
+[19:13:03]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:14:18]EMOTE: Experiment 97d/ : <B>Experiment 97d</B> stamps a foot.
+[19:14:37]ACCESS: Logout: S_Spy/(Winter Candy)
+[19:15:51]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[19:15:53]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 19:16.31
+---------------------
+[19:16:32]ADMIN: Loading jobban_rank
+[19:16:32]ADMIN: jobban_keylist was empty
+[19:16:32]ADMIN: Loading Banlist
+[19:16:36]DEBUG: Rebuilding Master Controller
+[19:16:59]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:18:21]VOTE: Gamemode vote started by the server.
+[19:18:21]DEBUG: The server has called a gamemode vote
+[19:18:35]ADMIN: S_Spy has started the game.
+[19:18:36]ACCESS: Logout: *no key*/(S_Spy)
+[19:18:36]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[19:18:40]DEBUG: Next event of severity Mundane in 16.85 minutes.
+[19:18:40]DEBUG: Next event of severity Moderate in 46.584 minutes.
+[19:18:40]DEBUG: Next event of severity Major in 88.29 minutes.
+[19:19:26]ACCESS: Logout: S_Spy/(Winter Candy)

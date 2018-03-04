@@ -1,0 +1,55 @@
+
+Forum
+	\Í\î\â\î\ñ\ò\è
+		ActualForum = list(object(".0"))
+			.0
+				type = /obj/Forums/Forum/Thread
+				Message = "ntcnjdjt"
+				attack_verb = list()
+				last_author = "S_Spy"
+				Forum_Threads = list()
+				time_update = 5445940224
+				MyID = 1
+				Forum_Messages = list(object(".0"))
+					.0
+						type = /obj/Forums/Forum/Message
+						Message = "Ok"
+						attack_verb = list()
+						Forum_Threads = list()
+						time_update = 5445940224
+						MyID = 2
+						name = "        Re:  1234"
+				name = "1234"
+				suffix = "S_Spy"
+				transform = object(".0")
+					.0
+						type = /matrix
+		Last\ Author = "S_Spy"
+		Last\ Topic = object(".0")
+			.0
+				type = /obj/Forums/Forum/Thread
+				Message = "ntcnjdjt"
+				attack_verb = list()
+				last_author = "S_Spy"
+				Forum_Threads = list()
+				time_update = 5445940224
+				MyID = 1
+				Forum_Messages = list(object(".0"))
+					.0
+						type = /obj/Forums/Forum/Message
+						Message = "Ok"
+						attack_verb = list()
+						Forum_Threads = list()
+						time_update = 5445940224
+						MyID = 2
+						name = "        Re:  1234"
+						suffix = "S_Spy"
+						transform = object(".0")
+							.0
+								type = /matrix
+				name = "1234"
+				suffix = "S_Spy"
+				transform = object(".0")
+					.0
+						type = /matrix
+		Last\ Update = 5445940224

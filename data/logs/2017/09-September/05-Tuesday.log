@@ -1,0 +1,63 @@
+
+
+Starting up. 19:38.45
+---------------------
+[19:38:46]ADMIN: Loading jobban_rank
+[19:38:46]ADMIN: jobban_keylist was empty
+[19:38:46]ADMIN: Loading Banlist
+[19:38:46]ADMIN: Banlist is empty.
+[19:38:46]ADMIN: Banlist missing base dir.
+[19:38:52]DEBUG: Rebuilding Master Controller
+[19:40:07]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:40:54]ADMIN: S_Spy has started the game.
+[19:40:54]ACCESS: Logout: *no key*/(S_Spy)
+[19:40:54]ACCESS: Login: S_Spy/(Master Style) from 127.0.0.1-516594753 || BYOND v511
+[19:40:59]EMOTE: Tom/ : <B>Tom</B> runs in a circle.
+[19:41:01]DEBUG: Next event of severity Mundane in 16.796 minutes.
+[19:41:01]DEBUG: Next event of severity Moderate in 53.39 minutes.
+[19:41:01]DEBUG: Next event of severity Major in 93.2717 minutes.
+[19:41:03]EMOTE: mouse (928)/ : <B>The mouse (928)</B> squeaks.
+[19:41:06]EMOTE: mouse (33)/ : <B>The mouse (33)</B> shakes.
+[19:41:35]EMOTE: mouse (818)/ : <B>The mouse (818)</B> squiks.
+[19:42:19]EMOTE: Ian/ : <B>Ian</B> dances around
+[19:42:36]EMOTE: Experiment 68a/ : <B>Experiment 68a</B> clacks.
+[19:42:57]SAY: mouse (597)/ : Squeek?
+[19:43:17]EMOTE: mouse (699)/ : <B>The mouse (699)</B> squeeks.
+[19:43:53]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[19:44:28]SAY: Experiment 97d/ : Eh?
+[19:44:40]ACCESS: Logout: S_Spy/(Master Style)
+
+
+Starting up. 19:54.05
+---------------------
+[19:54:05]ADMIN: Loading jobban_rank
+[19:54:05]ADMIN: jobban_keylist was empty
+[19:54:05]ADMIN: Loading Banlist
+[19:54:12]DEBUG: Rebuilding Master Controller
+[19:55:15]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[19:56:24]ACCESS: Logout: S_Spy/(S_Spy)
+
+
+Starting up. 20:21.08
+---------------------
+[20:21:09]ADMIN: Loading jobban_rank
+[20:21:09]ADMIN: jobban_keylist was empty
+[20:21:09]ADMIN: Loading Banlist
+[20:21:15]DEBUG: Rebuilding Master Controller
+[20:23:22]ACCESS: Login: Guest-516594753/(Guest-516594753) from 127.0.0.1-516594753 || BYOND v511
+[20:24:56]VOTE: Gamemode vote started by the server.
+[20:24:56]DEBUG: The server has called a gamemode vote
+[20:25:56]DEBUG: The server has called a gamemode vote
+[20:25:56]VOTE: <b>Vote Result: Inconclusive - No Votes!</b>
+[20:27:16]ACCESS: Logout: *no key*/(Guest-516594753)
+[20:27:16]ACCESS: Login: Guest-516594753/(Dazzleflash Vision) from 127.0.0.1-516594753 || BYOND v511
+[20:27:23]DEBUG: Next event of severity Mundane in 13.53 minutes.
+[20:27:23]DEBUG: Next event of severity Moderate in 48.87 minutes.
+[20:27:23]DEBUG: Next event of severity Major in 92.7667 minutes.
+[20:27:40]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:27:40]EMOTE: crab/ : <B>The crab</B> clicks.
+[20:27:53]SAY: grey baby slime (430)/ : Rawr...
+[20:27:56]EMOTE: mouse (906)/ : <B>The mouse (906)</B> squeeks.
+[20:28:10]SAY: mouse (899)/ : SQUEEK!
+[20:28:42]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[20:28:56]ACCESS: Logout: Guest-516594753/(Dazzleflash Vision)

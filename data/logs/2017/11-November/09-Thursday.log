@@ -1,0 +1,171 @@
+
+
+Starting up. 10:16.35
+---------------------
+[10:16:36]MISC: Saved mode is 'changeling_infiltration'
+[10:16:36]ADMIN: Loading jobban_rank
+[10:16:36]ADMIN: jobban_keylist was empty
+[10:16:36]ADMIN: Loading Banlist
+[10:16:40]DEBUG: Rebuilding Master Controller
+[10:18:13]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[10:19:19]VOTE: Gamemode vote started by the server.
+[10:19:19]DEBUG: The server has called a gamemode vote
+[10:19:49]ADMIN: S_Spy has started the game.
+[10:19:49]DEBUG: S_Spy had  enabled, so we are drafting them.
+[10:19:49]ACCESS: Logout: *no key*/(S_Spy)
+[10:19:49]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+
+
+Starting up. 10:29.36
+---------------------
+[10:29:36]MISC: Saved mode is 'changeling_infiltration'
+[10:29:37]ADMIN: Loading jobban_rank
+[10:29:37]ADMIN: jobban_keylist was empty
+[10:29:37]ADMIN: Loading Banlist
+[10:29:40]DEBUG: Rebuilding Master Controller
+[10:30:32]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[10:30:56]ADMIN: S_Spy has started the game.
+[10:30:57]DEBUG: S_Spy had  enabled, so we are drafting them.
+[10:30:57]ACCESS: Logout: *no key*/(S_Spy)
+[10:30:57]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:30:57]ACCESS: Logout: *no key*/(Winter Candy)
+[10:30:57]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:31:00]SAY: mouse (74)/ : Squeek?
+[10:31:02]DEBUG: Next event of severity Mundane in 14.522 minutes.
+[10:31:02]DEBUG: Next event of severity Moderate in 43.056 minutes.
+[10:31:02]DEBUG: Next event of severity Major in 91.61 minutes.
+[10:31:02]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[10:31:49]SAY: grey baby slime (936)/ : Blop...
+[10:32:48]EMOTE: mouse (992)/ : <B>The mouse (992)</B> squeeks.
+[10:32:48]EMOTE: mouse (245)/ : <B>The mouse (245)</B> scritches at something.
+[10:33:35]ACCESS: Logout: S_Spy/(alien queen (1))
+
+
+Starting up. 10:46.59
+---------------------
+[10:46:59]MISC: Saved mode is 'changeling_infiltration'
+[10:47:00]ADMIN: Loading jobban_rank
+[10:47:00]ADMIN: jobban_keylist was empty
+[10:47:00]ADMIN: Loading Banlist
+[10:47:03]DEBUG: Rebuilding Master Controller
+[10:48:21]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[10:49:44]VOTE: Gamemode vote started by the server.
+[10:49:44]DEBUG: The server has called a gamemode vote
+[10:50:08]ADMIN: S_Spy has started the game.
+[10:50:09]DEBUG: S_Spy had  enabled, so we are drafting them.
+[10:50:09]ACCESS: Logout: *no key*/(S_Spy)
+[10:50:09]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:50:09]ACCESS: Logout: *no key*/(Winter Candy)
+[10:50:09]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:50:14]DEBUG: Next event of severity Mundane in 13.194 minutes.
+[10:50:14]DEBUG: Next event of severity Moderate in 48.376 minutes.
+[10:50:14]DEBUG: Next event of severity Major in 90.4617 minutes.
+[10:50:22]ACCESS: Logout: *no key*/(alien queen (1))
+[10:50:22]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:50:26]GAME: Winter Candy/S_Spy used abandon mob.
+[10:50:26]ACCESS: Logout: *no key*/(Winter Candy)
+[10:50:26]ACCESS: Login: S_Spy/(new player) from 127.0.0.1-516594753 || BYOND v511
+[10:51:16]ACCESS: Logout: *no key*/(new player)
+[10:51:16]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:51:50]SAY: mouse (209)/ : Squeek?
+[10:51:56]SAY: mouse (682)/ : SQUEEK!
+[10:52:08]EMOTE: mouse (519)/ : <B>The mouse (519)</B> squiks.
+[10:53:03]ACCESS: Logout: *no key*/(Winter Candy)
+[10:53:03]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[10:53:15]ADMIN: S_Spy/(Winter Candy) assumed direct control of the alien queen (1).
+[10:53:15]ACCESS: Logout: *no key*/(Winter Candy)
+[10:53:15]ACCESS: Login: sspy/(alien queen (1)) from 127.0.0.1-516594753 || BYOND v511
+[10:53:26]ADMIN: sspy/(alien queen (1)) deleted the grille at (175,126,1)
+[10:53:29]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[10:53:38]ADMIN: sspy/(alien queen (1)) deleted the reinforced window at (175,126,1)
+[10:53:41]ADMIN: sspy/(alien queen (1)) deleted the reinforced window at (175,126,1)
+[10:54:05]EMOTE: mouse (520)/ : <B>The mouse (520)</B> runs in a circle.
+[10:55:15]SAY: Runtime/ : Meow!
+[10:56:53]SAY: Runtime/ : HSSSSS
+[10:57:40]EMOTE: mouse (821)/ : <B>The mouse (821)</B> squiks.
+[10:57:58]SAY: mouse (209)/ : Squeek?
+[10:58:38]SAY: Runtime/ : Esp!
+[11:01:45]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[11:02:47]SAY: Runtime/ : Esp!
+[11:03:13]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:03:21]SAY: Runtime/ : Purr!
+[11:04:30]DEBUG: Next event of severity Mundane in 14.912 minutes.
+[11:04:30]DEBUG: Starting event 'Trivial News' of severity Mundane.
+[11:04:52]DEBUG: Event 'Trivial News' has completed at 12:15.
+[11:05:55]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:10:36]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:10:52]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[11:12:48]SAY: grey baby slime (106)/ : Rawr...
+[11:14:54]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:16:00]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:17:32]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:19:48]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:20:32]DEBUG: Next event of severity Mundane in 17.924 minutes.
+[11:20:32]DEBUG: Starting event 'Mundane News' of severity Mundane.
+[11:20:54]DEBUG: Event 'Mundane News' has completed at 12:29.
+[11:21:00]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[11:23:41]EMOTE: Ian/ : <B>Ian</B> woofs.
+[11:26:41]SAY: Runtime/ : Esp!
+[11:27:23]EMOTE: Ian/ : <B>Ian</B> woofs.
+[11:27:39]SAY: Runtime/ : HSSSSS
+[11:29:04]SAY: Ian/ : AUUUUUU
+[11:29:38]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:29:40]SAY: grey baby slime (106)/ : Blop...
+[11:31:27]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:31:43]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:33:25]SAY: Runtime/ : Esp!
+[11:34:34]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:36:02]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:37:47]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:39:44]DEBUG: Next event of severity Mundane in 13.54 minutes.
+[11:39:44]DEBUG: Starting event 'Nothing' of severity Mundane.
+[11:39:46]DEBUG: Event 'Nothing' has completed at 12:47.
+[11:39:52]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:40:00]SAY: grey baby slime (33)/ : I want to eat...
+[11:41:12]SAY: Runtime/ : HSSSSS
+[11:41:36]EMOTE: Ian/ : <B>Ian</B> barks.
+[11:42:13]DEBUG: Next event of severity Moderate in 49.252 minutes.
+[11:42:13]DEBUG: Starting event 'Nothing' of severity Moderate.
+[11:42:15]DEBUG: Event 'Nothing' has completed at 12:49.
+[11:42:53]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:42:57]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:43:01]SAY: grey baby slime (33)/ : Where is the food?
+[11:43:54]SAY: Ian/ : Woof!
+[11:44:48]SAY: grey baby slime (106)/ : Blorble...
+[11:44:48]SAY: Runtime/ : HSSSSS
+[11:45:35]SAY: grey baby slime (106)/ : Hungry...
+[11:45:57]SAY: Ian/ : AUUUUUU
+[11:47:15]SAY: grey baby slime (106)/ : Hungry...
+[11:50:46]EMOTE: Ian/ : <B>Ian</B> woofs.
+[11:51:29]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:51:37]SAY: Runtime/ : HSSSSS
+[11:52:01]SAY: Runtime/ : Purr!
+[11:52:23]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[11:52:43]EMOTE: Ian/ : <B>Ian</B> barks.
+[11:53:38]EMOTE: Ian/ : <B>Ian</B> yaps.
+[11:54:13]DEBUG: Next event of severity Mundane in 12.254 minutes.
+[11:54:13]DEBUG: Starting event 'Economic News' of severity Mundane.
+[11:54:42]EMOTE: Runtime/ : <B>Runtime</B> mews.
+[11:54:57]EMOTE: Runtime/ : <B>Runtime</B> shakes their head.
+[11:56:11]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:56:28]EMOTE: Ian/ : <B>Ian</B> shakes its head.
+[11:57:02]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[11:57:50]SAY: grey baby slime (106)/ : I want to eat...
+[11:58:03]EMOTE: Ian/ : <B>Ian</B> dances around
+[11:58:11]DEBUG: Event 'Economic News' has completed at 13:04.
+[12:05:42]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:06:01]SAY: grey baby slime (33)/ : Where is the food?
+[12:06:41]SAY: Ian/ : AUUUUUU
+[12:06:45]SAY: Ian/ : YAP
+[12:07:14]DEBUG: Next event of severity Mundane in 12.738 minutes.
+[12:07:14]DEBUG: Starting event 'Lost Carp' of severity Mundane.
+[12:08:15]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:08:51]EMOTE: Ian/ : <B>Ian</B> chases their tail
+[12:09:01]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:09:09]EMOTE: Runtime/ : <B>Runtime</B> meows.
+[12:10:38]SAY: Runtime/ : HSSSSS
+[12:11:59]SAY: grey baby slime (106)/ : Lonely...
+[12:13:40]SAY: grey baby slime (106)/ : Blop...
+[12:19:04]EMOTE: Ian/ : <B>Ian</B> pants.
+[12:19:08]EMOTE: Ian/ : <B>Ian</B> dances around
+[12:20:06]ACCESS: Logout: sspy/(alien queen (1))

@@ -1,0 +1,132 @@
+
+
+Starting up. 14:28.02
+---------------------
+[14:28:02]MISC: Saved mode is 'changeling'
+[14:28:03]ADMIN: Loading jobban_rank
+[14:28:03]ADMIN: jobban_keylist was empty
+[14:28:03]ADMIN: Loading Banlist
+[14:28:06]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 14:38.19
+---------------------
+[14:38:19]MISC: Saved mode is 'changeling'
+[14:38:19]ADMIN: Loading jobban_rank
+[14:38:19]ADMIN: jobban_keylist was empty
+[14:38:19]ADMIN: Loading Banlist
+[14:38:23]DEBUG: Rebuilding Master Controller
+[14:38:55]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[14:39:50]ADMIN: S_Spy/(S_Spy) set the mode as changeling_infiltration.
+[14:39:58]ADMIN: S_Spy has started the game.
+[14:39:58]DEBUG: S_Spy had  enabled, so we are drafting them.
+[14:40:15]ADMIN: S_Spy has started the game.
+[14:40:16]DEBUG: S_Spy had  enabled, so we are drafting them.
+[14:40:16]ACCESS: Logout: *no key*/(S_Spy)
+[14:40:16]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+
+
+Starting up. 14:51.41
+---------------------
+[14:51:41]MISC: Saved mode is 'changeling_infiltration'
+[14:51:41]ADMIN: Loading jobban_rank
+[14:51:41]ADMIN: jobban_keylist was empty
+[14:51:41]ADMIN: Loading Banlist
+[14:51:44]DEBUG: Rebuilding Master Controller
+[14:53:53]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[14:55:05]VOTE: Gamemode vote started by the server.
+[14:55:05]DEBUG: The server has called a gamemode vote
+[14:55:34]ADMIN: S_Spy has started the game.
+[14:55:34]DEBUG: S_Spy had  enabled, so we are drafting them.
+[14:55:34]ACCESS: Logout: *no key*/(S_Spy)
+[14:55:34]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+
+
+Starting up. 15:14.20
+---------------------
+[15:14:20]MISC: Saved mode is 'changeling_infiltration'
+[15:14:21]ADMIN: Loading jobban_rank
+[15:14:21]ADMIN: jobban_keylist was empty
+[15:14:21]ADMIN: Loading Banlist
+[15:14:25]DEBUG: Rebuilding Master Controller
+[15:17:33]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[15:18:46]VOTE: Gamemode vote started by the server.
+[15:18:46]DEBUG: The server has called a gamemode vote
+[15:19:00]ADMIN: S_Spy has started the game.
+[15:19:01]DEBUG: S_Spy had  enabled, so we are drafting them.
+[15:19:01]ACCESS: Logout: *no key*/(S_Spy)
+[15:19:01]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+[15:19:51]DEBUG: Rebuilding Master Controller
+[15:19:56]DEBUG: Next event of severity Mundane in 13.934 minutes.
+[15:19:56]DEBUG: Next event of severity Moderate in 38.826 minutes.
+[15:19:56]DEBUG: Next event of severity Major in 99.3883 minutes.
+[15:20:12]SAY: mouse (648)/ : Squeek?
+[15:20:32]ACCESS: Logout: S_Spy/(Winter Candy)
+
+
+Starting up. 15:25.16
+---------------------
+[15:25:16]MISC: Saved mode is 'changeling_infiltration'
+[15:25:17]ADMIN: Loading jobban_rank
+[15:25:17]ADMIN: jobban_keylist was empty
+[15:25:17]ADMIN: Loading Banlist
+[15:25:20]DEBUG: Rebuilding Master Controller
+[15:27:49]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[15:29:10]VOTE: Gamemode vote started by the server.
+[15:29:10]DEBUG: The server has called a gamemode vote
+[15:29:32]ADMIN: S_Spy has started the game.
+[15:29:33]DEBUG: S_Spy had  enabled, so we are drafting them.
+[15:29:33]ACCESS: Logout: *no key*/(S_Spy)
+[15:29:33]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+
+
+Starting up. 15:38.20
+---------------------
+[15:38:21]MISC: Saved mode is 'changeling_infiltration'
+[15:38:21]ADMIN: Loading jobban_rank
+[15:38:21]ADMIN: jobban_keylist was empty
+[15:38:21]ADMIN: Loading Banlist
+[15:38:25]DEBUG: Rebuilding Master Controller
+[15:39:43]ACCESS: Login: S_Spy/(S_Spy) from 127.0.0.1-516594753 || BYOND v511
+[15:40:02]ADMIN: S_Spy has started the game.
+[15:40:03]DEBUG: S_Spy had  enabled, so we are drafting them.
+[15:40:29]ADMIN: S_Spy has started the game.
+[15:40:29]DEBUG: S_Spy had  enabled, so we are drafting them.
+[15:40:29]ACCESS: Logout: *no key*/(S_Spy)
+[15:40:29]ACCESS: Login: S_Spy/(Winter Candy) from 127.0.0.1-516594753 || BYOND v511
+
+
+Starting up. 15:47.12
+---------------------
+[15:47:12]MISC: Saved mode is 'changeling_infiltration'
+[15:47:13]ADMIN: Loading jobban_rank
+[15:47:13]ADMIN: jobban_keylist was empty
+[15:47:13]ADMIN: Loading Banlist
+[15:47:16]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 15:48.25
+---------------------
+[15:48:25]MISC: Saved mode is 'changeling_infiltration'
+[15:48:25]ADMIN: Loading jobban_rank
+[15:48:25]ADMIN: jobban_keylist was empty
+[15:48:26]ADMIN: Loading Banlist
+[15:48:30]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 15:51.13
+---------------------
+[15:51:13]MISC: Saved mode is 'changeling_infiltration'
+[15:51:13]ADMIN: Loading jobban_rank
+[15:51:13]ADMIN: jobban_keylist was empty
+[15:51:13]ADMIN: Loading Banlist
+[15:51:18]DEBUG: Rebuilding Master Controller
+
+
+Starting up. 15:55.40
+---------------------
+[15:55:40]MISC: Saved mode is 'changeling_infiltration'
+[15:55:40]ADMIN: Loading jobban_rank
+[15:55:40]ADMIN: jobban_keylist was empty
+[15:55:40]ADMIN: Loading Banlist
+[15:55:44]DEBUG: Rebuilding Master Controller
