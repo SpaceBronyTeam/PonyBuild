@@ -72,7 +72,7 @@
 /obj/item/weapon/pillow/green
 	color = rgb(1,196,8)
 
-/obj/item/weapon/pillow/purp
+/obj/item/weapon/pillow/purple
 	color = rgb(112,2,176)
 
 /obj/item/weapon/pillow/blue

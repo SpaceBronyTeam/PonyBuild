@@ -30,6 +30,17 @@ var/global/list/datum/stack_recipe/metal_recipes = list ( \
 		new/datum/stack_recipe("purple comfy chair", /obj/structure/bed/chair/comfy/purp, 2, one_per_turf = 1, on_floor = 1), \
 		new/datum/stack_recipe("green comfy chair", /obj/structure/bed/chair/comfy/green, 2, one_per_turf = 1, on_floor = 1), \
 		), 2), \
+	new/datum/stack_recipe_list("pillows",list(\
+		new/datum/stack_recipe("grey pillow", /obj/item/weapon/pillow, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("beige pillow", /obj/item/weapon/pillow/beige, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("black pillow", /obj/item/weapon/pillow/black, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("blue pillow", /obj/item/weapon/pillow/blue, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("brown pillow", /obj/item/weapon/pillow/brown, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("green pillow", /obj/item/weapon/pillow/green, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("purple pillow", /obj/item/weapon/pillow/purple, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("red pillow", /obj/item/weapon/pillow/red, one_per_turf = 1, on_floor = 1), \
+		new/datum/stack_recipe("teal pillow", /obj/item/weapon/pillow/teal, one_per_turf = 1, on_floor = 1), \
+		), 1), \
 	null, \
 	new/datum/stack_recipe("table parts", /obj/item/weapon/table_parts, 2), \
 	new/datum/stack_recipe("rack parts", /obj/item/weapon/table_parts/rack), \
